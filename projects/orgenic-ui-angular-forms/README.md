@@ -1,6 +1,6 @@
 # OrgenicUiAngularForms
 
-This module can be used in angular projects to use ngModule bindings with ORGENIC UI components.
+This module can be used in angular projects to use ngModel bindings with ORGENIC UI components.
 
 ## Installation
 ```npm i orgenic-ui-angular-forms```
@@ -25,10 +25,10 @@ export class AppModule {}
 
 ## Text Input
 ```html
-<og-text-input [(ngModule)]="name" ngDefaultControl><og-text-input>
+<og-text-input [(ngModel)]="name" ngDefaultControl><og-text-input>
 ```
 
 ## Checkbox
 ```html
-<og-checkbox [(ngModule)]="enabled" ngDefaultControl><og-checkbox>
+<og-checkbox [(ngModel)]="enabled" ngDefaultControl><og-checkbox>
 ```
