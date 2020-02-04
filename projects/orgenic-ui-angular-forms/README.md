@@ -1,6 +1,6 @@
 # OrgenicUiAngularForms
 
-This module can be used in angular projects to use ngModel bindings with ORGENIC UI components.
+This module can be used in angular projects to use ngModel bindings with [ORGENIC UI](https://github.com/orgenic/orgenic-ui) components.
 
 ## Installation
 ```npm i orgenic-ui-angular-forms```
